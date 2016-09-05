@@ -1,4 +1,4 @@
-# deadbeef-xfce-genmon-scripts
+# xfce genmon scripts for deadbeef
 To use scripts you need xfce4-genmon-plugin. Just add it to the panel and point path to the needed script.
 
 np.sh - Show artist and title in 2 lines. You can change variable to set maximum character length, if it exceeded, it'll scroll text.
