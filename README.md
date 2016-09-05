@@ -5,4 +5,3 @@ np.sh - Show artist and title in 2 lines. You can change variable to set maximum
 cover.sh - Shows cover + opens artist's page on last.fm on click. You can set size and default icon in case if nothing is found.
 bar.sh - Shows progress bar.
 time.sh - Shows time in 2 lines.
-# deadbeef-xfce-genmon-scripts
